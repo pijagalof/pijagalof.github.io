@@ -12,3 +12,6 @@
 
 # Ignoriranje vseh datotek v mapi urnik.synctex.gz
 urnik.synctex.gz/
+
+#Ignoriranje datotek s končnico .synctex.gz
+*.synctex.gz
